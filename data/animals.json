@@ -117,6 +117,16 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Bubbles",
+      "species": "Cat",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "loving",
+        "goofy"
+      ],
+      "id": "12"
     }
   ]
 }
